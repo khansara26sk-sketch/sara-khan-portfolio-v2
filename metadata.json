@@ -1,0 +1,6 @@
+{
+  "name": "Sumi Landing Page",
+  "description": "A minimalist hero section with a pure black background and DM Sans typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
